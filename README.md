@@ -13,7 +13,7 @@ A simple and fast QR Code Generator web app built with HTML, CSS, and JavaScript
 
 Check out the live version of this app:
 
-🔗 **[Live Link]((https://siddhesh-kulkarni.github.io/QR-Code-Generator/))**
+🔗 **[Live Link](https://siddhesh-kulkarni.github.io/QR-Code-Generator/)**
 
 <img src="QR-code.png" alt="QR for Live Demo" width="150"/>
 
